@@ -10,4 +10,4 @@ Por último, también encontrarás un PDF llamado "Soluciones explicadas", en la
 --> Otros Ficheros: Esta parte a queda disponible para posibles ficheros útiles para el aprendzaje. Las recomendaciones de uso de estos ficheros se mencionarán en alguno de los distintos PDFs.
 
 
-RECORDATORIO - Este repositorio sigue en proceso de diseño, creación y modificación. Si tienes alguna sugerencia o comentario constructivo sobre la información que hay en este repositorio, puedes contactarme por correo electrónico --> faundezroku@gmail.com  con asunto "Repositorio Ruta Aprendizaje Java".
+# RECORDATORIO - Este repositorio sigue en proceso de diseño, creación y modificación. Si tienes alguna sugerencia o comentario constructivo sobre la información que hay en este repositorio, puedes contactarme por correo electrónico --> faundezroku@gmail.com  con asunto "Repositorio Ruta Aprendizaje Java".
