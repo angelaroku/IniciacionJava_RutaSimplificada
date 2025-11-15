@@ -1,5 +1,6 @@
 # IniciacionJava_RutaSimplificada
 Aquí encontraras una ruta simplificada de lo que he podido aprender de Java en este tiempo. Dentro del repo la información que dejo disponible esta ordenada de esta manera:
+
 --> PDFs: Esta parte sería la "guía a seguir".
 El PDF que aconsejo leer primero es el de "Iniciación a la programación y el mundo informático". 
 Aunque si ya sabías o tenías contexto de programación, puedes ir directamente al PDF de "Ruta Simplificada Java (Teórico-Practico)". AquÍ encontrarás mucha teoría, pero simplificada con mis palabras, también ejercicios prácticos en todos los niveles, para que según vayas entendiendo la teoría de Java puedas aplicarla e interiorizarla rápidamente.
